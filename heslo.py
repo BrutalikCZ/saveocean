@@ -1,0 +1,1 @@
+passwordMySQL= "Heslo123"
